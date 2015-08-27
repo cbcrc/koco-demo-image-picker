@@ -1,6 +1,6 @@
 {
   "name": "koco-demo-image-picker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/cbcrc/koco-demo-image-picker",
   "authors": [
     "Frédérik Charest & Maxime Séguin"
@@ -15,6 +15,6 @@
   ],
   "dependencies": {
     "koco-knockout-utilities": "^0.3.2",
-    "koco-dialoger": "^0.2.3"
+    "koco-dialoger": "^0.3.0"
   }
 }
